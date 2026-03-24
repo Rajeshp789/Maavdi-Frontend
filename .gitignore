@@ -8,7 +8,7 @@ node_modules/
 .vscode/
 
 # optional (if you don’t want images in repo)
-images/
+image/
 
 # logs
 npm-debug.log
