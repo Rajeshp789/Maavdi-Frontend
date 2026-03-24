@@ -1,5 +1,14 @@
+# dependencies
 node_modules/
+
+# environment variables
 .env
-.DS_Store
-build/
-dist/
+
+# vscode
+.vscode/
+
+# optional (if you don’t want images in repo)
+images/
+
+# logs
+npm-debug.log
